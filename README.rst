@@ -1,5 +1,5 @@
 =============
-cloudprinting
+cloudprinting s
 =============
 
 A simple interface to Google Cloud Print.
